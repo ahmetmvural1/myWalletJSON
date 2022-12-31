@@ -1,14 +1,56 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "data": {
+    "myWallet": [
+        {
+        "id": 1,
+        "date": "14.10.2022",
+        "receivedDollar": 500.0,
+        "receivedRate": 18.8568,
+        "isReceived": true
+        },
+        {
+        "id": 2,
+        "date": "14.10.2022",
+        "receivedDollar": 100.0,
+        "receivedRate": 18.8583,
+        "isReceived": true
+        },
+        {
+        "id": 3,
+        "date": "09.11.2022",
+        "receivedDollar": 300.0,
+        "receivedRate": 18.7985,
+        "isReceived": true
+        },
+        {
+        "id": 4,
+        "date": "23.11.2022",
+        "receivedDollar": 300.0,
+        "receivedRate": 18.8146,
+        "isReceived": true
+        },
+        {
+        "id": 5,
+        "date": "28.11.2022",
+        "receivedDollar": 600.0,
+        "receivedRate": 18.8285,
+        "isReceived": true
+        },
+  
+        {
+        "id": 6,
+        "date": "07.12.2022",
+        "receivedDollar": 200.0,
+        "receivedRate": 18.5260,
+        "isReceived": false
+        },
+        {
+        "id": 7,
+        "date": "21.12.2022",
+        "receivedDollar": 500.0,
+        "receivedRate": 18.8666,
+        "isReceived": true
+        }
+    ]
   }
 }
