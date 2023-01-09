@@ -50,6 +50,13 @@
         "receivedDollar": 500.0,
         "receivedRate": 18.8666,
         "isReceived": true
+        },
+        {
+        "id": 8,
+        "date": "02.01.2023",
+        "receivedDollar": 700.0,
+        "receivedRate": 18.9358,
+        "isReceived": true
         }
     ],
     "forexBuying": 18.6858
